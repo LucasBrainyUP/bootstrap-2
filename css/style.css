@@ -1,0 +1,36 @@
+body{
+overflow-x:hidden;
+/* margin: 0 !important; */
+font-family: 'Montserrat', sans-serif;
+}
+/* [class^="col"]{
+    padding:1rem;
+    border: 4px solid #2aabe5;
+} */
+a:hover{
+    color: #6c757d !important;
+}
+#myVideo{
+    width: 100% !important;
+    height: 100%;
+    z-index: -8;
+    filter: brightness(60%);
+}
+i{
+    color: #FFC107;
+}
+.information{
+   
+    border: 1px solid rgb(165, 165, 165);
+    border-radius: 5px;
+}
+a{
+    color: wheat;
+    text-decoration: none;
+}
+html{
+    scroll-behavior: smooth;
+}
+/* *{
+    overflow-x: hidden;
+} */
